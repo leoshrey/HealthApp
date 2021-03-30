@@ -14,8 +14,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements SensorEventListener {
 
-//    var running = false;
-//    var sensorManager: SensorManager? = null;
+
     private  SensorManager mSensorManager;
     boolean running;
     public TextView count;
